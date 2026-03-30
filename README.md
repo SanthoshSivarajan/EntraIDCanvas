@@ -134,7 +134,7 @@ EntraIDCanvas is designed to be resilient:
 
 
 ### Executive Summary
-![Summary](screenshots/2.png)
+![Summary](screenshots/2.jpg)
 
 ### Section
 ![Section](screenshots/5.png)
