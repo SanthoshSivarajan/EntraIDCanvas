@@ -66,18 +66,18 @@ The script will prompt for authentication and consent. Open the generated `Entra
 
 ### Visual Components (12 Charts)
 
-- User Status (donut) -- enabled/disabled/members/guests
-- User Source (donut) -- cloud-only vs synced
-- User Licensing (donut) -- licensed vs unlicensed
-- Group Types (donut) -- security/M365/distribution
-- Group Membership Type (donut) -- dynamic vs assigned
-- Group Source (donut) -- cloud vs synced
-- Device Join Type (donut) -- Entra joined/hybrid/registered
-- Device Compliance (donut) -- compliant vs non-compliant
-- Device OS Distribution (donut)
-- CA Policy Status (donut) -- enabled/disabled/report-only
-- Service Principal Types (donut) -- application/managed identity
-- Directory Roles (bar) -- top 10 by member count
+- User Status  -- enabled/disabled/members/guests
+- User Source  -- cloud-only vs synced
+- User Licensing  -- licensed vs unlicensed
+- Group Types  -- security/M365/distribution
+- Group Membership Type  -- dynamic vs assigned
+- Group Source -- cloud vs synced
+- Device Join Type  -- Entra joined/hybrid/registered
+- Device Compliance  -- compliant vs non-compliant
+- Device OS Distribution 
+- CA Policy Status  -- enabled/disabled/report-only
+- Service Principal Types  -- application/managed identity
+- Directory Roles  -- top 10 by member count
 
 ## Requirements
 
