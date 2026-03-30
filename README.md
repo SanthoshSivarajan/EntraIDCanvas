@@ -1,4 +1,3 @@
-
 # EntraIDCanvas
 
 ### Paint the Full Picture of Your Entra ID Tenant
