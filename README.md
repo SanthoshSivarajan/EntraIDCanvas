@@ -145,6 +145,21 @@ EntraIDCanvas is designed to be resilient:
 ### Summary
 ![Summary](screenshots/1.png)
 
+
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/2.png)
+
+### Per-Domain Section
+![Domain Section](screenshots/screenshot-domain-section.png)
+
+### Forest-Wide Charts
+![Charts](screenshots/screenshot-charts.png)
+
+### DC Table
+![DC Table](screenshots/screenshot-dc-table.png)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
