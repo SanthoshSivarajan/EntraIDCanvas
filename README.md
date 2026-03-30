@@ -13,6 +13,12 @@ EntraIDCanvas is a single PowerShell script that queries your Microsoft Entra ID
 
 Run one script. Open one HTML file. See everything.
 
+## Who This Is For
+- Identity and access administrators  
+- Cloud engineers  
+- Security professionals  
+- IT architects working with Microsoft Entra ID  
+
 ## Quick Start
 
 ```powershell
