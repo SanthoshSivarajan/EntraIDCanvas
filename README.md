@@ -132,6 +132,19 @@ EntraIDCanvas is designed to be resilient:
 - **Zero external dependencies** -- all CSS, JS, and SVG are inline
 - **Self-contained HTML** -- no web server needed
 
+
+### Executive Summary
+![Summary](screenshots/2.png)
+
+### Section
+![Section](screenshots/5.png)
+
+### Charts
+![Charts](screenshots/3.png)
+
+### Summary
+![Summary](screenshots/1.png)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
